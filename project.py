@@ -8,7 +8,7 @@ img = Image.open(path)
 
 text = tes.image_to_string(img)
 # print(text)
-openai.api_key = "API KEY - GPT"
+openai.api_key = "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"
 
 messages = []
 
